@@ -1,0 +1,20 @@
+<!-- Footer Start -->
+
+<footer>
+
+    {% include social-buttons.html %}
+
+    <p><br><br></p>
+
+    <div class="container text-center">
+    <p><i class="fa fa-copyright fa-1x" aria-hidden="true"> </i>{{ site.time | date: "%Y" }} Made with <strong style="font-size: 30px; color: #f42;">&hearts;</strong> by Amaan</p>
+        {% if site.keybase-in-footer %}
+        <p style="font-size: 16px;"><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i
+                class="fa fa-key"></i> {{site.keybase-username}}</a></p>
+        {% endif %}
+    </div>
+</footer>
+
+<p><br><br><br></p>
+
+<!-- Footer End -->
