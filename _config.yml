@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Dedicated to Embrace Linux"
   - text: "Strong affinity for OpenSource Softwares"
-  - text: "Foodie by Heart & Loves to travel places!"
+  - text: "Foodie by Heart and Loves to travel places!"
 
 me-img: "/img/author.png"
 
