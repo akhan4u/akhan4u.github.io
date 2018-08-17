@@ -1,0 +1,52 @@
+{
+  "name": "akhan4u.github.io",
+  "title": "Amaan Khan",
+  "url": "https://akhan4u.github.io",
+  "description": "Build assets for akhan4u.github.io",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "headroom.js": "^0.9.4",
+    "jquery": "^3.3.1",
+    "nprogress": "^0.2.0",
+    "popper.js": "^1.14.4",
+    "primer-markdown": "^3.7.6",
+    "svg4everybody": "^2.1.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-eslint": "^4.0.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-header": "^1.8.12",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-scss-lint": "^0.5.0",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-svgstore": "^6.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "jekyll-build": "bundle exec jekyll build --config _config.yml,_config_dev.yml",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhan4u/akhan4u.github.io.git"
+  },
+  "private": true,
+  "author": "Amaan Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhan4u/akhan4u.github.io/issues"
+  },
+  "homepage": "https://github.com/akhan4u/akhan4u.github.io#readme"
+}
