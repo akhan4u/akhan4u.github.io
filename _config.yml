@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "An Enthusiastic Linux Geek with Militant Interest in Devops"
-  - text: "Livin' on the edge of Opensource technologies"
-  - text: "Foodie by Heart, Loves writing Tech!"
+  - text: "Dedicated to Embrace Linux"
+  - text: "Strong affinity for OpenSource Softwares"
+  - text: "Foodie by Heart & Loves to travel places!"
 
 me-img: "/img/author.png"
 
