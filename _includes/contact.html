@@ -24,10 +24,10 @@
               </script>
             </p>
         {% else %}
-          <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+         <!-- <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p> -->
+         {% include google_maps.html %}
         {% endif %}
       {% endif %}
-      {% include google_maps.html %}
 
     </div>
   </div>
