@@ -8,10 +8,10 @@
 
     <div class="container text-center">
     <!-- <p><i class="fa fa-copyright fa-1x" aria-hidden="true"> </i>{{ site.time | date: "%Y" }} Made with <strong style="font-size: 30px; color: #f42;">&hearts;</strong> by Amaan</p> -->
-    <p><i class="fa fa-copyright fa-1x" aria-hidden="true"> </i>{{ site.time | date: "%Y" }} Made with :heart: by Amaan</p>
+    <p><i class="fa fa-copyright fa-1x" aria-hidden="true"> </i>{{ site.time | date: "%Y" }}<small> Made with :heart: by Amaan</small></p>
         {% if site.keybase-in-footer %}
         <p style="font-size: 16px;"><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i
-                class="fa fa-key"></i> {{site.keybase-username}}</a></p>
+                class="fa fa-key fa-fw"></i>keybase.io</a> &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://raw.githubusercontent.com/akhan4u/akhan4u.github.io/master/LICENSE" target="_blank"><i class="fa fa-certificate"></i>MIT</a></p>
         {% endif %}
     </div>
 </footer>
