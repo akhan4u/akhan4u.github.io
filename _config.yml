@@ -136,7 +136,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/grad.jpg"
     date: "July 2013"
-    description: "<small>Graduated! Ready to set the world on fire</small>"
+    description: "<small>Graduated! Ready to set the world on :fire:</small>"
   - image: "/img/timeline/cog.png"
     date: "April 2014"
     description: "<small>Started working at <a href='https://www.cognizant.com/' target='_blank'> Cognizant</a> :heart_eyes:</small>"
@@ -145,13 +145,13 @@ events:
     description: "<small>Responsibilities were to manage Bare-Metal and Vmware virtualized environments with Puppet</small>"
   - image: "/img/timeline/bye1.jpg"
     date: "November 2016"
-    description: "<small>Farewell! I will miss you Cognizant</small>"
+    description: "<small>Farewell! I will miss you Cognizant :cry:</small>"
   - image: "/img/timeline/gl.png"
     date: "March 2017"
-    description: "<small>Started as Devops Engineer at <a href='https://www.globallogic.com/' target='_blank'>Global Logic</a></small>"
+    description: "<small>Started as Devops Engineer at <a href='https://www.globallogic.com/' target='_blank'>Global Logic</a></small> :tada:"
   - image: "/img/timeline/devops.png"
     date: "Devops Engineer"
-    description: "<small>From Ground to High-Up in AWS Clouds to Azure, and back. The term 'DevOps' Sounds like music to my Ear's!</small>"
+    description: "<small>From Ground to High-Up in AWS to Azure :cloud:, and back. The term 'DevOps' Sounds like music to my Ear's!</small>"
 
 
 # First image of the Timeline
