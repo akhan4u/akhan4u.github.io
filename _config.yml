@@ -1,6 +1,4 @@
 
-# Site settings
-
 # NB! Set your site's url, otherwise stuff will break :)
 
 url: "https://akhan4u.github.io"
@@ -138,22 +136,22 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/grad.jpg"
     date: "July 2013"
-    description: "Graduated ! Ready to set the world on fire"
+    description: "<small>Graduated! Ready to set the world on fire</small>"
   - image: "/img/timeline/cog.png"
     date: "April 2014"
-    description: "Yayyee!!! I got selected at Cognizant!"
+    description: "<small>Started working at <a href='https://www.cognizant.com/' target='_blank'> Cognizant</a> :heart_eyes:</small>"
   - image: "/img/timeline/cog_work.png"
     date: "Linux & Virtualization Engineer"
-    description: "My responsibilities were to manage Bare-Metal and Vmware virtualized environments with Puppet"
+    description: "<small>Responsibilities were to manage Bare-Metal and Vmware virtualized environments with Puppet</small>"
   - image: "/img/timeline/bye1.jpg"
     date: "November 2016"
-    description: "Farewell! I will miss you Cognizant"
+    description: "<small>Farewell! I will miss you Cognizant</small>"
   - image: "/img/timeline/gl.png"
     date: "March 2017"
-    description: "Started as Devops Engineer at Global Logic"
+    description: "<small>Started as Devops Engineer at <a href='https://www.globallogic.com/' target='_blank'>Global Logic</a></small>"
   - image: "/img/timeline/devops.png"
     date: "Devops Engineer"
-    description: "From Ground to High-Up in AWS Clouds to Azure, and back. The term 'DevOps' Sounds like music to my Ear's!"
+    description: "<small>From Ground to High-Up in AWS Clouds to Azure, and back. The term 'DevOps' Sounds like music to my Ear's!</small>"
 
 
 # First image of the Timeline
